@@ -20,7 +20,7 @@ To access the full code or collaborate, contact me or open an issue [here](https
 
 Mathieu Piotr SCHMIT
 
-📧 cgwesk@gmail.com
+mail: 📧 cgwesk@gmail.com
 
 - License
 
