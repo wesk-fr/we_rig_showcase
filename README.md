@@ -19,6 +19,7 @@ To access the full code or collaborate, contact me or open an issue [here](https
 - Author
 
 Mathieu Piotr SCHMIT
+
 📧 cgwesk@gmail.com
 
 - License
