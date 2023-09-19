@@ -14,7 +14,7 @@ Customizability: Tailor each rig to the project's specific needs.
 
 This repository is a showcase for We_Rig.
 
-To access the full code or collaborate, contact me or open an issue here.
+To access the full code or collaborate, contact me or open an issue [here](https://github.com/wesk-fr/we_rig_showcase/issues/new?assignees=&labels=Access+Request&projects=&template=access_request-md.md&title=Request+for+Collaborator+Access)
 
 - Author
 
