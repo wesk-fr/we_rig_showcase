@@ -18,8 +18,7 @@ about: Use this template to request access to the main repository.
 - **Email**:
 - **GitHub Username**:
 - **Organization/Company** (if applicable):
-- **Reason for Access Request**:
 
 ### Additional Information/Message
-Please provide any other information or context regarding why you're seeking access to the main repository.
-or None.
+Please provide any other information or context regarding why you're seeking access to the main repository. Still cool to present yourself :)
+or None ;)
